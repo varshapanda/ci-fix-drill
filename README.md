@@ -1,3 +1,1 @@
-# ci-fix-drill
-
-Payment service CI pipeline.
+# ci-fix-drill-solution
