@@ -55,3 +55,7 @@ The `test` job was missing `needs: install`, allowing it to run independently of
 2. Replaced `toBe()` with `toEqual()` in `formatCurrency.test.js`.
 3. Changed dependency installation from `npm install` to `npm ci`.
 4. Added `needs: install` and proper setup steps (`checkout`, `setup-node`, `npm ci`) to the test job in the GitHub Actions workflow.
+
+
+
+
